@@ -1,0 +1,12 @@
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\bin\Debug\net5.0\Entidades_C6.deps.json
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\bin\Debug\net5.0\Entidades_C6.dll
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\bin\Debug\net5.0\Entidades_C6.pdb
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.csproj.AssemblyReference.cache
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.AssemblyInfoInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.AssemblyInfo.cs
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.dll
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\refint\Entidades_C6.dll
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\Entidades_C6.pdb
+D:\Programacion\C#\UTN\Ejercicios\Entidades_C6\obj\Debug\net5.0\ref\Entidades_C6.dll

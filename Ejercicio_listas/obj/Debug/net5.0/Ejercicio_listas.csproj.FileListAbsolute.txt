@@ -1,0 +1,16 @@
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.exe
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.deps.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.runtimeconfig.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.runtimeconfig.dev.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\bin\Debug\net5.0\Ejercicio_listas.pdb
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.csproj.AssemblyReference.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.AssemblyInfoInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.AssemblyInfo.cs
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\refint\Ejercicio_listas.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.pdb
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\Ejercicio_listas.genruntimeconfig.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_listas\obj\Debug\net5.0\ref\Ejercicio_listas.dll

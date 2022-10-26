@@ -1,0 +1,16 @@
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.exe
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.deps.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.runtimeconfig.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.runtimeconfig.dev.json
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\bin\Debug\net5.0\Ejercicio_Archivos.pdb
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.csproj.AssemblyReference.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.AssemblyInfoInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.AssemblyInfo.cs
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\refint\Ejercicio_Archivos.dll
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.pdb
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\Ejercicio_Archivos.genruntimeconfig.cache
+D:\Programacion\C#\UTN\Ejercicios\Ejercicio_Archivos\obj\Debug\net5.0\ref\Ejercicio_Archivos.dll

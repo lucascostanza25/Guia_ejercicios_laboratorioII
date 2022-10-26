@@ -26,19 +26,38 @@ namespace Entidades_C5
         {
             StringBuilder mySb = new StringBuilder();
 
-            mySb.AppendLine($"Nombre: {this.nombre}");
-            mySb.AppendLine($"Direccion: {this.direccion}");
-            mySb.AppendLine($"Edad: {this.edad}");
-            mySb.AppendLine($"Genero: {this.genero}");
-            mySb.AppendLine($"Cursos: ");
-            foreach(string miElemento in this.cursos)
+            if (Validar())
             {
-                if(miElemento != null)
+                mySb.AppendLine($"Nombre: {this.nombre}");
+                mySb.AppendLine($"Direccion: {this.direccion}");
+                mySb.AppendLine($"Edad: {this.edad}");
+                mySb.AppendLine($"Genero: {this.genero}");
+                mySb.AppendLine($"Cursos: ");
+                foreach (string miElemento in this.cursos)
                 {
-                    mySb.AppendLine("- " + miElemento);
+                    if (miElemento != null)
+                    {
+                        mySb.AppendLine("- " + miElemento);
+                    }
                 }
             }
+            else
+            {
+                mySb.Append("No ingresó ningún dato!");
+            }
+
             return mySb.ToString();
+        }
+
+        private bool Validar()
+        {
+            bool estado = false;
+            if(this.cursos != null && this.nombre != null && this.direccion != null && this.genero != null && this.pais != null && this.edad >= 1)
+            {
+                estado = true;
+            }
+
+            return estado;
         }
     }
 }

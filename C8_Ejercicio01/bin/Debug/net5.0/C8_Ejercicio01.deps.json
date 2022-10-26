@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C8_Ejercicio01/1.0.0": {
+        "dependencies": {
+          "Entidades_C8": "1.0.0"
+        },
+        "runtime": {
+          "C8_Ejercicio01.dll": {}
+        }
+      },
+      "Entidades_C8/1.0.0": {
+        "runtime": {
+          "Entidades_C8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C8_Ejercicio01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_C8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

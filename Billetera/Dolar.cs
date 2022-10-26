@@ -46,9 +46,72 @@ namespace Billetera
             return new Pesos(d.cantidad * Pesos.GetCotizacion());
         }
 
-        public static operator != ()
+        public static bool operator == (Dolar d,  Pesos p)
         {
+            bool estado = false;
+            if (d.cantidad == p.GetCantidad())
+            {
+                estado = true;
+            }
 
+            return estado;
+        }
+
+        public static bool operator !=(Dolar d, Pesos p)
+        {
+            return !(d == p);
+        }
+
+        public static bool operator ==(Dolar d, Euro e)
+        {
+            bool estado = false;
+            if (d.cantidad == e.GetCantidad())
+            {
+                estado = true;
+            }
+
+            return estado;
+        }
+
+        public static bool operator !=(Dolar d, Euro e)
+        {
+            return !(d == e);
+        }
+
+        public static bool operator ==(Dolar d1, Dolar d2)
+        {
+            bool estado = false;
+            if (d1.cantidad == d2.cantidad)
+            {
+                estado = true;
+            }
+
+            return estado;
+        }
+
+        public static bool operator !=(Dolar d1, Dolar d2)
+        {
+            return !(d1 == d2);
+        }
+
+        public static Dolar operator -(Dolar d, Euro e)
+        {
+            return new Dolar(d.cantidad - ((Dolar)e).GetCantidad());
+        }
+
+        public static Dolar operator -(Dolar d, Pesos p)
+        {
+            return new Dolar(d.cantidad - ((Dolar)p).GetCantidad());
+        }
+
+        public static Dolar operator +(Dolar d, Euro e)
+        {
+            return new Dolar(d.cantidad + ((Dolar)e).GetCantidad());
+        }
+
+        public static Dolar operator +(Dolar d, Pesos p)
+        {
+            return new Dolar(d.cantidad + ((Dolar)p).GetCantidad());
         }
     }
 }
